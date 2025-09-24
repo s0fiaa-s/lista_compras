@@ -1,0 +1,40 @@
+
+.formulario {
+    width: 25rem;
+    margin: 20px auto;
+    padding: 1rem;
+    background-color: #ff7f7f;
+    border: 2px solid #333;
+    border-radius: 8px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.campo-producto, .campo-precio {
+    padding: 7.5px;
+    border: 2px solid #333;
+    border-radius: 4px;
+    font-size: 1rem;
+    background-color: #ffc1c1;
+}
+
+.btn-agregar, btn-eliminar {
+    padding: 10.5px;
+    background-color: #d8a7e0;
+    color: black;
+    border: 2px solid #333;
+    border-radius: 4px;
+
+}
+
+.item-producto {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 10px;
+    font-size: 15px;
+}
+
+
+

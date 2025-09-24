@@ -9,5 +9,11 @@
 html {
 
     font-family: monospace;
-    font-size: 10px;
+    font-size: 15px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
 }

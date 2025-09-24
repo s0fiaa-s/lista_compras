@@ -1,0 +1,17 @@
+.seccion-1 {
+    width: 25rem;
+    margin: 20px auto;
+    padding: 1rem;
+    background-color: #ff7f7f;
+    border: 2px solid #333;
+    border-radius: 8px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo-seccion1 {
+    font-size: 32px;
+    color: black;
+}
